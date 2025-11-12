@@ -16,6 +16,8 @@ marketing decisions.
 ● Discover seasonal or regional sales patterns.
 ● Provide business recommendations to improve sales and profitability.
 
+
+
 ### 📁 Deliverables
 1. Excel (.xlsx) file containing cleaned data, analysis, and visual dashboards.
 2. PowerPoint presentation summarizing your findings and insights.

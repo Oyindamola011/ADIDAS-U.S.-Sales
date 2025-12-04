@@ -25,20 +25,26 @@ marketing decisions.
 
 ### Key Metrics
 
-Total operating profit: 47.22M
+1.Total operating profit: 47.22M
 
-Total units sold: 2M
+2.Total units sold: 2M
 
-Total sales: 120.17M
+3.Total sales: 120.17M
 
 ### Tools Used
-Power BI Desktop
-Data modeling with DAX measures and calculated columns
-Visualizations: bar charts, line charts, stacked bar charts, and KPIs
+
+1.Power BI Desktop
+
+2.Data modeling with DAX measures and calculated columns
+
+3.Visualizations: bar charts, line charts, stacked bar charts, and KPIs
 
 ### 📁 Deliverables
-1. Excel (.xlsx) file containing cleaned data, analysis, and visual dashboards.
-2. PowerPoint presentation summarizing your findings and insights.
+1. Excel (.xlsx) file containing cleaned data, analysis.
+   
+2.  visual dashboards.
+   
+3. PowerPoint presentation summarizing your findings and insights.
    
 
 

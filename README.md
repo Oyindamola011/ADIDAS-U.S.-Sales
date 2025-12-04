@@ -39,6 +39,15 @@ marketing decisions.
 
 3.Visualizations: bar charts, line charts, stacked bar charts, and KPIs
 
+### Dashboard Insights
+Sales by product: Compares total units sold and total sales across different Adidas product categories.
+
+Sales by region: Shows how profit and sales vary across regions such as West, Northeast, South, Southeast, and Midwest.
+
+Sales by month: Highlights monthly trends in operating profit and total sales over the two years.
+
+Sales by retailer and channel: Breaks down performance by retailer (e.g., Amazon, Walmart, etc.) and sales method (online, outlet, in‑store).
+
 ### 📁 Deliverables
 1. Excel (.xlsx) file containing cleaned data, analysis.
    

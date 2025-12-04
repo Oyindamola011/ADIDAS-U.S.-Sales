@@ -47,6 +47,8 @@ Sales by region: Shows how profit and sales vary across regions such as West, No
 Sales by month: Highlights monthly trends in operating profit and total sales over the two years.
 
 Sales by retailer and channel: Breaks down performance by retailer (e.g., Amazon, Walmart, etc.) and sales method (online, outlet, in‑store).
+<img width="903" height="510" alt="image" src="https://github.com/user-attachments/assets/579c770d-126e-48a5-b44f-f27a01fc36ff" />
+
 
 ### 📁 Deliverables
 1. Excel (.xlsx) file containing cleaned data, analysis.

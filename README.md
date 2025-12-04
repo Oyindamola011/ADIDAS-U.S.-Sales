@@ -56,6 +56,7 @@ Sales by retailer and channel: Breaks down performance by retailer (e.g., Amazon
 2.  visual dashboards.
    
 3. PowerPoint presentation summarizing your findings and insights.
+   https://d.docs.live.net/7A3476EC82DF9D9B/Documents/Adidas%20Sales%20Performance%20Analysis%202020%E2%80%932021.pptx
    
 
 
